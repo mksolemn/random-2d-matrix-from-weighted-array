@@ -1,4 +1,4 @@
-[alt text](https://raw.githubusercontent.com/mksolemn/random-2d-matrix-from-weighted-array/main/tiles.png "Tiles")
+[alt text](https://github.com/mksolemn/random-2d-matrix-from-weighted-array/blob/main/tiles.png?raw=true "Tiles")
 # random-2d-matrix-from-weighted-array
 Generate random 2D matrix from predefined array of weighted values
 
